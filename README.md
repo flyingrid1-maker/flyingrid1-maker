@@ -1,11 +1,15 @@
 ## Hi there 👋
+-I have been learning Java recently for a job change.
+-I am already studying HTML, CSS, and JavaScript on my own.
+-I will work even harder on my studies for the sake of my job from now on.
+
 
 <!--
 **flyingrid1-maker/flyingrid1-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
