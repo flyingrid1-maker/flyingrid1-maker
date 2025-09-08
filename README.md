@@ -1,7 +1,7 @@
 ## Hi there 👋
--I have been learning Java recently for a job change.
--I am already studying HTML, CSS, and JavaScript on my own.
--I will work even harder on my studies for the sake of my job from now on.
+- I have been learning Java recently for a job change.
+- I am already studying HTML, CSS, and JavaScript on my own.
+- I will work even harder on my studies for the sake of my job from now on.
 
 
 <!--
